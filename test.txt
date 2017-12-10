@@ -4,3 +4,13 @@ dump all changes into commit:
 
 git add -A
 
+git pull over changes:
+git reset --hard		#deletes all changes since last pull
+git stash 			#creates a parallel file holding the changes and matches working directory with master
+
+
+
+LESS commands
+"/<text>" search for strings containing <text>
+"N"/"n" find next or previous search result containing <text>
+
