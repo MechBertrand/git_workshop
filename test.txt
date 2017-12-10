@@ -1,0 +1,6 @@
+this was made in vim!
+
+dump all changes into commit:
+
+git add -A
+
